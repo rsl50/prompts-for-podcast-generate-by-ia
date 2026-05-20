@@ -18,13 +18,15 @@
 </a>
 </p>
 
+
 <p align="center">
-    preview do podcast
+<a href="./output/podcast.m4a">
+    <img 
+        src="https://img.shields.io/badge/Podcast-FF0000?style=flat&logo=youtube&logoColor=white" 
+        alt="Podcast">
+</a>
 </p>
 
-<div align="center">
-    <audio src="output/podcast.m4a" controls title="Podcast editado"></audio>
-</div>
 
 # Projeto Podcast Gerado por I.A.s
 
