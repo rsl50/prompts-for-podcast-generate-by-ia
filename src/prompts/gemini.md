@@ -1,1 +1,4 @@
-Crie uma capa para podcast no formato 1:1, o podcast é um podcast de tecnologia focado em desenvolvimento android, o personagem central da imagem deve ser um robô estilo gundam chibi e ao seu redor devem ter referencias ao desenvolvimento mobile como celulares, códigos em kotlin, telas com multiplas interfaces graficas
+Crie uma capa para podcast no formato 1:1, o podcast é um podcast de tecnologia focado em desenvolvimento android, o personagem central da imagem deve ser um robô estilo gundam chibi e ao seu redor devem ter referencias ao desenvolvimento mobile como celulares, códigos em kotlin, telas com múltiplas interfaces gráficas 
+
+
+
